@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/36/56/1a/36561ac2de9a4fdf22be032a3accead9.gif);
+    /* https://i.makeagif.com/media/10-16-2022/6td9B_.gif */
+    /* https://media1.tenor.com/m/Jn5lxPy9qzIAAAAd/hollowknight.gif */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /*background-color: rgb(0, 0, 0);*/ 
+    font-family: "Pixelify Sans", "sans-serif";
+    
+}
+
+p {
+    color: rgb(0, 163, 200);
+    font-size: "400px";
+      
+}
+
+h1 {
+    color:rgb(0, 163, 200)
+
+}
+
+#City-of-tears {
+    width: 1080px;
+    height: 600px;
+}
+
+.caixa {
+    background: rgb(0, 0, 0);
+    width: 300px;
+}
+
+.sem {
+    padding: 0;
+}
+.com_padding {
+    padding: 15px;
+}
+.com_margin {
+    margin : 60px;
+}
